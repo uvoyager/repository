@@ -1,3 +1,4 @@
 Changes in file for commit 1.
 Changes in file for commit 2.
 Change was made from GitHub.
+Changes in hot fix branch
