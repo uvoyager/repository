@@ -1,1 +1,2 @@
 Changes in file for commit 1.
+Changes in file for commit 2.
